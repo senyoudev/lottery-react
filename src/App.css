@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  height: 100vh;
+  background-color: #2C363F;
+  color: #F2F5EA;
+  font-family: 'Hubballi', cursive;
+}
+
+.app .title {
+  text-align: center;
+  padding-top:15px ;
+  margin-bottom: 35px;
+}
+.app .title2 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.form-group {
+  text-align: center;
+}
+.form-group label {
+  display: block;
+}
+.form-group input {
+  width: 20%;
+  padding: 5px 10px;
+  border-radius: 5px;
+  outline: none;
+}
+.form-group button {
+  width: 20%;
+  padding: 5px 10px;
+  border-radius: 5px;
+  outline: none;
+}
